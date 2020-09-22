@@ -1,5 +1,6 @@
 {
   "name": "citas",
+  "homepage": "https://react.designio.tech/citas/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
